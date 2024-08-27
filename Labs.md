@@ -37,3 +37,5 @@ Progress:
     * test 4: <span style="color:green">passed</span>
     * test 5: <span style="color:green">passed</span>
     * test 6: <span style="color:green">passed</span>
+
+Time Spent: 1 hr 47 mins (according to WakaTime)
